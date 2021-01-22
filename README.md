@@ -11,7 +11,7 @@ If you have a Lite account, you can upgrade it. Click [here](https://cloud.ibm.c
 
 * Click on the search section at the top of the main page, type Kubernetes, and then choose Kubernetes Service.
 
-![](Kubernetes1.PNG)
+![Screenshot][](Kubernetes1.PNG)
 
 * In the new window, select between the free and standard type under "Pricing plan". Once selected, click on create.
 
@@ -115,6 +115,6 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 
 ![Screenshot](testspark5.PNG)
 
-You can also read the Spark official documentation on how to operate with the tool using Kubernetes[here](https://spark.apache.org/docs/latest/running-on-kubernetes.html "here").
+* You can also read the Spark official documentation on how to operate with the tool using Kubernetes[here](https://spark.apache.org/docs/latest/running-on-kubernetes.html "here").
 
 You have finished the installation, enjoy your Spark installation!
