@@ -118,3 +118,4 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 * You can also read the Spark official documentation on how to operate with the tool using Kubernetes[here](https://spark.apache.org/docs/latest/running-on-kubernetes.html "here").
 
 You have finished the installation, enjoy your Spark installation!
+
