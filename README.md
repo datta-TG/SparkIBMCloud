@@ -87,7 +87,7 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 
 ![Screenshot](test7.PNG)
 
-* Once you have installed the terminal, open it, select web terminal, and type the following command. It will show you the workspaces of your cluster. You can see *pytorch-example* is now active.
+* Once you have installed the terminal, open it, select web terminal, and type the following command. It will show you the workspaces of your cluster. You can see *spark-example* is now active.
 
 `$ kubectl get ns`
 
