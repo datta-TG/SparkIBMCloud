@@ -1,6 +1,6 @@
 # Install Spark in IBM Cloud
 
-AApache Spark is a Big Data solution oriented to data processing. This documentation will teach you how to install Spark in the IBM Cloud using the Kubernetes Cluster Service.
+Apache Spark is a Big Data solution oriented to data processing. This documentation will teach you how to install Spark in the IBM Cloud using the Kubernetes Cluster Service.
 
 ## Pre-requisites
 
